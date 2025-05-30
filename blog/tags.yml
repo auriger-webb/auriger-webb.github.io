@@ -1,0 +1,19 @@
+kink:
+  label: Kink
+  permalink: /kink
+  description: Flying the freak flag
+
+journal:
+  label: Journal
+  permalink: /journal
+  description: My rich inner monologue
+
+technology:
+  label: Technology
+  permalink: /technology
+  description: Computers and computer accessories
+
+test_post:
+  label: Test Post Pls Ignore
+  permalink: /test-post-pls-ignore
+  description: Test Post Pls Ignore

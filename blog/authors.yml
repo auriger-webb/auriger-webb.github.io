@@ -1,0 +1,9 @@
+auriger:
+  name: Auriger Webb
+  title: Professional Computer Nerd; Gay; Kinky; he/him ;P
+  #url: ~ 'null' isn't allowed
+  #image_url: ~ 'null' isn't allowed
+  page: false
+  socials:
+    github: auriger-webb
+    bsky: aurigerwebb.bsky.social
