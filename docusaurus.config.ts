@@ -90,10 +90,6 @@ const config: Config = {
                         {
                             label: 'About',
                             to: '/about'
-                        },
-                        {
-                            label: 'FAQs',
-                            to: '/faq',
                         }
                     ],
                 },
