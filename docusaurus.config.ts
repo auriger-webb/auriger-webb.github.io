@@ -23,6 +23,7 @@ const config: Config = {
     // GitHub pages deployment config.
     organizationName: 'auriger-webb',
     projectName: 'auriger-webb.github.io',
+    deploymentBranch: 'main',
 
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
